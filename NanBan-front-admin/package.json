@@ -1,0 +1,26 @@
+{
+  "name": "nanban-front-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --mode dev",
+    "build": "vite build --mode build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "element-plus": "^2.7.0",
+    "js-md5": "^0.8.3",
+    "sass": "^1.75.0",
+    "sass-loader": "^14.2.0",
+    "vue": "^3.4.21",
+    "vue-cookies": "^1.8.4",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/estree": "^1.0.5",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}

@@ -1,0 +1,32 @@
+2024-05-01 20:45:09 [DEBUG][org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration][afterPropertiesSet][234]-> No org.mybatis.spring.mapper.MapperFactoryBean found.
+2024-05-01 20:45:09 [DEBUG][org.springframework.web.servlet.DispatcherServlet][traceDebug][120]-> GET "/api/", parameters={}
+2024-05-01 20:45:09 [WARN][org.springframework.web.servlet.PageNotFound][noHandlerFound][1283]-> No mapping for GET /api/
+2024-05-01 20:45:09 [WARN][org.springframework.web.servlet.PageNotFound][handleNoHandlerFoundException][515]-> No handler found for GET /api/
+2024-05-01 20:45:09 [WARN][org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver][logException][208]-> Resolved [org.springframework.web.servlet.NoHandlerFoundException: No handler found for GET /api/]
+2024-05-01 20:45:09 [DEBUG][org.springframework.web.servlet.DispatcherServlet][logResult][1131]-> Completed 404 NOT_FOUND
+2024-05-01 20:45:09 [DEBUG][org.springframework.web.servlet.DispatcherServlet][traceDebug][120]-> "ERROR" dispatch for GET "/api/error", parameters={}
+2024-05-01 20:45:09 [DEBUG][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping][getHandler][522]-> Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#errorHtml(HttpServletRequest, HttpServletResponse)
+2024-05-01 20:45:09 [DEBUG][org.springframework.web.servlet.view.ContentNegotiatingViewResolver][getBestView][349]-> Selected 'text/html' given [text/html, text/html;q=0.8]
+2024-05-01 20:45:09 [DEBUG][org.springframework.web.servlet.DispatcherServlet][logResult][1127]-> Exiting from "ERROR" dispatch, status 404
+2024-05-01 20:45:18 [DEBUG][org.springframework.web.servlet.DispatcherServlet][traceDebug][120]-> GET "/api/test", parameters={}
+2024-05-01 20:45:18 [DEBUG][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping][getHandler][522]-> Mapped to com.NanBan.controller.TestController#test()
+2024-05-01 20:45:18 [DEBUG][org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor][writeWithMessageConverters][268]-> Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.7, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2024-05-01 20:45:18 [DEBUG][org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor][traceDebug][120]-> Writing ["hello world"]
+2024-05-01 20:45:18 [DEBUG][org.springframework.web.servlet.DispatcherServlet][logResult][1131]-> Completed 200 OK
+2024-05-01 20:45:19 [DEBUG][org.springframework.web.servlet.DispatcherServlet][traceDebug][120]-> GET "/api/test", parameters={}
+2024-05-01 20:45:19 [DEBUG][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping][getHandler][522]-> Mapped to com.NanBan.controller.TestController#test()
+2024-05-01 20:45:19 [DEBUG][org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor][writeWithMessageConverters][268]-> Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.7, */*;q=0.8] and supported [text/plain, */*, text/plain, */*, application/json, application/*+json, application/json, application/*+json]
+2024-05-01 20:45:19 [DEBUG][org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor][traceDebug][120]-> Writing ["hello world"]
+2024-05-01 20:45:19 [DEBUG][org.springframework.web.servlet.DispatcherServlet][logResult][1131]-> Completed 200 OK
+2024-05-01 21:11:51 [DEBUG][org.springframework.boot.availability.ApplicationAvailabilityBean][onApplicationEvent][77]-> Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-05-01 21:11:51 [DEBUG][org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext][doClose][1060]-> Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@591e58fa, started on Wed May 01 20:31:17 CST 2024
+2024-05-01 21:11:51 [DEBUG][org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver][logKeyFound][115]-> Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2024-05-01 21:11:51 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][366]-> Stopping beans in phase 2147483647
+2024-05-01 21:11:51 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][239]-> Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-05-01 21:11:51 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][366]-> Stopping beans in phase 2147483646
+2024-05-01 21:11:51 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][239]-> Bean 'webServerStartStop' completed its stop procedure
+2024-05-01 21:11:51 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][366]-> Stopping beans in phase -2147483647
+2024-05-01 21:11:51 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][239]-> Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-05-01 21:11:51 [DEBUG][org.springframework.jmx.export.annotation.AnnotationMBeanExporter][destroy][452]-> Unregistering JMX-exposed beans on shutdown
+2024-05-01 21:11:51 [DEBUG][org.springframework.jmx.export.annotation.AnnotationMBeanExporter][unregisterBeans][186]-> Unregistering JMX-exposed beans
+2024-05-01 21:11:51 [DEBUG][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor][shutdown][224]-> Shutting down ExecutorService 'applicationTaskExecutor'

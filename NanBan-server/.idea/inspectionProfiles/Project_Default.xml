@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="NanBan-common" />
+          <option value="NanBan-common" />
+          <option value="NanBan-common" />
+          <option value="NanBan-common" />
+          <option value="NanBan-common" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="org.springframework:spring-core:5.3.31" />
+          <option value="org.springframework:spring-web:5.3.31" />
+          <option value="org.springframework:spring-webmvc:5.3.31" />
+          <option value="org.mybatis:mybatis:3.4.6" />
+          <option value="org.yaml:snakeyaml:1.30" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="不可利用" />
+          <option value="不可利用" />
+          <option value="不可利用" />
+          <option value="不可利用" />
+          <option value="不可利用" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

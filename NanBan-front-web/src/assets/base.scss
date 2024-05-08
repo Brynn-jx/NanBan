@@ -1,0 +1,134 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --vt-c-white: #ffffff;
+  --vt-c-white-soft: #f8f8f8;
+  --vt-c-white-mute: #f2f2f2;
+
+  --vt-c-black: #181818;
+  --vt-c-black-soft: #222222;
+  --vt-c-black-mute: #282828;
+
+  --vt-c-indigo: #2c3e50;
+
+  --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
+  --vt-c-divider-light-2: rgba(60, 60, 60, 0.12);
+  --vt-c-divider-dark-1: rgba(84, 84, 84, 0.65);
+  --vt-c-divider-dark-2: rgba(84, 84, 84, 0.48);
+
+  --vt-c-text-light-1: var(--vt-c-indigo);
+  --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
+  --vt-c-text-dark-1: var(--vt-c-white);
+  --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+  --link: #007fff;
+  --pink: #ff6699;
+  --text2: #61666d;
+  --text1: #9499a0;
+  --icon: #9499a0;
+}
+
+/* semantic color variables for this project */
+:root {
+  --color-background: var(--vt-c-white);
+  --color-background-soft: var(--vt-c-white-soft);
+  --color-background-mute: var(--vt-c-white-mute);
+
+  --color-border: var(--vt-c-divider-light-2);
+  --color-border-hover: var(--vt-c-divider-light-1);
+
+  --color-heading: var(--vt-c-text-light-1);
+  --color-text: var(--vt-c-text-light-1);
+
+  --section-gap: 160px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: var(--vt-c-black);
+    --color-background-soft: var(--vt-c-black-soft);
+    --color-background-mute: var(--vt-c-black-mute);
+
+    --color-border: var(--vt-c-divider-dark-2);
+    --color-border-hover: var(--vt-c-divider-dark-1);
+
+    --color-heading: var(--vt-c-text-dark-1);
+    --color-text: var(--vt-c-text-dark-2);
+  }
+}
+* {
+  box-sizing: border-box;
+}
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+// 滚动条
+*::-webkit-scrollbar {
+  width: 8px;
+  // 高度写不写，都不影响，因为会根据内容的长度自动计算
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a6caaf; // 鼠标移入滑块变红
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #ccc; // 滑块颜色
+  border-radius: 15px; // 滑块圆角
+}
+
+// 兼容Firefox、IE
+* {
+  scrollbar-width: 10px;
+  scrollbar-base-color: green;
+  scrollbar-track-color: red;
+  scrollbar-arrow-color: blue;
+}
+
+body {
+  // min-height: 100vh;
+  color: var(--color-text);
+  background: rgb(243, 243, 243);
+  transition: color 0.5s, background-color 0.5s;
+  line-height: 1.6;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.a-link {
+  text-decoration: none;
+  color: var(--link);
+  cursor: pointer;
+}
+// 解决el-button失去焦点方法
+.el-button:focus {
+  border-color: var(--el-button-border-color) !important;
+  color: var(--el-button-text-color) !important;
+  background: var(--el-button-bg-color) !important;
+}
+.el-form-item {
+  align-items: center;
+}
+.container-body {
+  margin: 0px auto;
+  padding-top: 5px;
+}
+
+.tag {
+  font-size: 12px;
+  border-radius: 3px;
+  padding: 0px 5px;
+  margin-right: 5px;
+  font-weight: normal;
+}
+
+.tag-no-audit {
+  border: 1px solid var(--link);
+  color: var(--link);
+}

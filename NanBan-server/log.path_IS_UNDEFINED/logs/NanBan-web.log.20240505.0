@@ -1,0 +1,81 @@
+2024-05-05 20:31:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:31:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:31:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:31:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:31:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:31:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:32:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:32:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:32:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:32:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:32:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:32:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:33:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:33:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:33:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:33:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:33:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:33:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:34:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:34:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:34:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:34:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:34:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:34:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:35:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:35:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:35:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:35:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:35:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:35:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:36:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:36:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:36:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:36:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:36:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:36:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:37:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:37:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:37:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:37:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:37:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:37:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:38:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:38:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:38:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:38:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:38:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:38:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:39:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:39:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:39:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:39:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:39:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:39:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:40:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:40:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:40:05 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:40:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:40:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:40:35 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-05-05 20:40:46 [DEBUG][org.springframework.boot.availability.ApplicationAvailabilityBean][onApplicationEvent][77]-> Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-05-05 20:40:46 [DEBUG][org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext][doClose][1060]-> Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@19b93fa8, started on Sun May 05 16:51:02 CST 2024
+2024-05-05 20:40:46 [DEBUG][org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver][logKeyFound][115]-> Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2024-05-05 20:40:46 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][366]-> Stopping beans in phase 2147483647
+2024-05-05 20:40:46 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][239]-> Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-05-05 20:40:46 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][366]-> Stopping beans in phase 2147483646
+2024-05-05 20:40:46 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][239]-> Bean 'webServerStartStop' completed its stop procedure
+2024-05-05 20:40:46 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][366]-> Stopping beans in phase -2147483647
+2024-05-05 20:40:46 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][239]-> Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-05-05 20:40:46 [DEBUG][org.springframework.jmx.export.annotation.AnnotationMBeanExporter][destroy][452]-> Unregistering JMX-exposed beans on shutdown
+2024-05-05 20:40:46 [DEBUG][org.springframework.jmx.export.annotation.AnnotationMBeanExporter][unregisterBeans][186]-> Unregistering JMX-exposed beans
+2024-05-05 20:40:46 [DEBUG][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor][shutdown][224]-> Shutting down ExecutorService 'applicationTaskExecutor'
+2024-05-05 20:40:46 [INFO][com.zaxxer.hikari.HikariDataSource][close][350]-> HikariCPDatasource - Shutdown initiated...
+2024-05-05 20:40:46 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before shutdown stats (total=5, active=0, idle=5, waiting=0)
+2024-05-05 20:40:46 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8e2af31: (connection evicted)
+2024-05-05 20:40:46 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@625405d: (connection evicted)
+2024-05-05 20:40:46 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@21ac441: (connection evicted)
+2024-05-05 20:40:46 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@47184a66: (connection evicted)
+2024-05-05 20:40:46 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5a1efe93: (connection evicted)
+2024-05-05 20:40:46 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-05-05 20:40:46 [INFO][com.zaxxer.hikari.HikariDataSource][close][352]-> HikariCPDatasource - Shutdown completed.
